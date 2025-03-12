@@ -67,20 +67,20 @@ Tracking performance is visualized using:
 
 <table>
   <tr>
-    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_4.jpg" width="300"></td>
-    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task2_4.jpg" width="300"></td>
+    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_4.jpg" width="400"></td>
+    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task2_4.jpg" width="400"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_3.jpg" width="300"></td>
-    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task2_3.jpg" width="300"></td>
+    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_3.jpg" width="400"></td>
+    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task2_3.jpg" width="400"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_2.jpg" width="300"></td>
-    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task2_2.jpg" width="300"></td>
+    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_2.jpg" width="400"></td>
+    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task2_2.jpg" width="400"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_1.jpg" width="300"></td>
-    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task2_1.jpg" width="300"></td>
+    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_1.jpg" width="400"></td>
+    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task2_1.jpg" width="400"></td>
   </tr>
 </table>
 
@@ -157,13 +157,23 @@ Using the decoded ephemeris and tracking results, the user’s position is compu
 
 #### Results
 
-![Opensky: Ground Truth and Navigation Solytion Opensky GEOMAP](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_6.jpg)
-![Urban: Ground Truth and Navigation Solytion Opensky GEOMAP](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task4.jpg)
-![Opensky: WLS Estimated Trajectory](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_5.jpg)
-![Opensky: Velocity in XYZ Direction](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_4.jpg)
-![Opensky: Position Error Over Time](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_3.jpg)
-![Opensky: Clock Bias Over Time](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_2.jpg)
-![Opensky: Position Error Distribution](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_1.jpg)
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/main/Result/Opensky/task4_6.jpg" width="400"></td>
+    <td><img src="https://raw.githubusercontent.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/main/Result/Urban/Task4.jpg" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/main/Result/Opensky/task4_5.jpg" width="400"></td>
+    <td><img src="https://raw.githubusercontent.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/main/Result/Opensky/task4_4.jpg" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/main/Result/Opensky/task4_3.jpg" width="400"></td>
+    <td><img src="https://raw.githubusercontent.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/main/Result/Opensky/task4_2.jpg" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/main/Result/Opensky/task4_1.jpg" width="500"></td>
+  </tr>
+</table>
 
 ---
 
