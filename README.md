@@ -42,7 +42,9 @@ The acquisition results are visualized using:
 
 
 ![Opensky: SNR vs. PRN, Doppler Shift vs. PRN, Code Delay vs. PRN](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task1.jpg)
+Opensky: SNR vs. PRN, Doppler Shift vs. PRN, Code Delay vs. PRN
 ![Urban: SNR vs. PRN, Doppler Shift vs. PRN, Code Delay vs. PRN](https://raw.githubusercontent.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/main/Result/Urban/task1.jpg)
+Urban: SNR vs. PRN, Doppler Shift vs. PRN, Code Delay vs. PRN
 
 ---
 
@@ -126,8 +128,9 @@ Ephemeris information of PRN 3.
 
 
 ![Opensky: Eccentricity vs. Toe, Semi-Major Axis vs. Toe, Inclination Angle vs. Toe](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task3.jpg)
+Opensky: Eccentricity vs. Toe, Semi-Major Axis vs. Toe, Inclination Angle vs. Toe
 ![Urban: Eccentricity vs. Toe, Semi-Major Axis vs. Toe, Inclination Angle vs. Toe](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task3.jpg)
-
+Urban: Eccentricity vs. Toe, Semi-Major Axis vs. Toe, Inclination Angle vs. Toe
 ---
 
 ## 4. Position and Velocity Estimation
