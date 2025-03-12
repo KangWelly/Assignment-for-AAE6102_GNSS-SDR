@@ -67,7 +67,7 @@ Tracking performance is visualized using:
 
 ```
 ![Opensky: ACF vs Code Delay](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_4.jpg)
-![Urban: ACF vs Code Delay](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task2_4.jpg)
+![Urban: ACF vs Code Delay](Assignment-for-AAE6102_GNSS-SDR/Result/Urban/Task2_4.jpg)
 ![Opensky: Prompt Correlation](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_3.jpg)
 ![Urban: Prompt Correlation](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task2_3.jpg)
 ![Opensky: Quadrature Correlation](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_2.jpg)
@@ -148,7 +148,7 @@ Using the decoded ephemeris and tracking results, the user’s position is compu
 - **y**: Pseudorange residual.  
 
 #### Results
-```
+
 ![Opensky: Ground Truth and Navigation Solytion Opensky GEOMAP](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_6.jpg)
 ![Urban: Ground Truth and Navigation Solytion Opensky GEOMAP](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task4.jpg)
 ![Opensky: WLS Estimated Trajectory](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_5.jpg)
@@ -156,7 +156,7 @@ Using the decoded ephemeris and tracking results, the user’s position is compu
 ![Opensky: Position Error Over Time](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_3.jpg)
 ![Opensky: Clock Bias Over Time](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_2.jpg)
 ![Opensky: Position Error Distribution] (https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_1.jpg)
-```
+
 
 ---
 
