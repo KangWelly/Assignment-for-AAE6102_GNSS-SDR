@@ -65,7 +65,7 @@ Tracking performance is visualized using:
 - Quadrature Correlation (`P_q`) vs. Time – Phase noise analysis.  
 - Carrier Frequency vs. Time – Doppler compensation trends.
 
-```
+
 ![Opensky: ACF vs Code Delay](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_4.jpg)
 ![Urban: ACF vs Code Delay](Assignment-for-AAE6102_GNSS-SDR/Result/Urban/Task2_4.jpg)
 ![Opensky: Prompt Correlation](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_3.jpg)
@@ -74,7 +74,7 @@ Tracking performance is visualized using:
 ![Urban: Quadrature Correlation](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task2_2.jpg)
 ![Opensky: Carrier Frequency](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_1.jpg)
 ![Urban: Carrier Frequency](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task2_1.jpg)
-```
+
 
 ---
 
