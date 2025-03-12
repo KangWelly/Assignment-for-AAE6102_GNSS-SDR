@@ -193,12 +193,20 @@ To improve accuracy, EKF is implemented in `trackingVT_POS_updated.m`.
 
 #### Results
 
-![EKF Opensky: Estimated Trajectory](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task5_1.jpg)
-![EKF Opensky: Velocity in XYZ Direction](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task5_2.jpg)
-![EKF Opensky: Position Error Over Time](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task5_3.jpg)
-![EKF Opensky: Clock Bias Over Time](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task5_6.jpg)
-![EKF Opensky: Clock Drift Over Time](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task5_5.jpg)
-![EKF Opensky: Position Error Distribution (Multipath Effect Analysis)](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task5_4.jpg)
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/main/Result/Opensky/task5_1.jpg" width="400"></td>
+    <td><img src="https://raw.githubusercontent.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/main/Result/Opensky/task5_2.jpg" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/main/Result/Opensky/task5_3.jpg" width="400"></td>
+    <td><img src="https://raw.githubusercontent.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/main/Result/Opensky/task5_6.jpg" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/main/Result/Opensky/task5_5.jpg" width="400"></td>
+    <td><img src="https://raw.githubusercontent.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/main/Result/Opensky/task5_4.jpg" width="400"></td>
+  </tr>
+</table>
 
 ---
 
