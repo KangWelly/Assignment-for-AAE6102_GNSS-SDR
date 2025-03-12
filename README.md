@@ -40,10 +40,10 @@ The acquisition results are visualized using:
 - Doppler Shift vs. PRN – Estimated Doppler shifts.  
 - Code Delay vs. PRN – Estimated code delays.
 
-```
+
 ![Opensky: SNR vs. PRN, Doppler Shift vs. PRN, Code Delay vs. PRN](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task1.jpg)
 ![Urban: SNR vs. PRN, Doppler Shift vs. PRN, Code Delay vs. PRN](https://raw.githubusercontent.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/main/Result/Urban/task1.jpg)
-```
+
 ---
 
 ### 2.2 Task 2: Tracking
@@ -114,10 +114,10 @@ Ephemeris information of PRN 3.
 | Cus             | Latitude sine term (radians)               | 2.3842e-07        |
 | TGD             | Time group delay (seconds)                 | -7.4506e-09       |
 
-```
+
 ![Opensky: Eccentricity vs. Toe, Semi-Major Axis vs. Toe, Inclination Angle vs. Toe](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task3.jpg)
 ![Urban: Eccentricity vs. Toe, Semi-Major Axis vs. Toe, Inclination Angle vs. Toe](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task3.jpg)
-```
+
 ---
 
 ## 4. Position and Velocity Estimation
@@ -153,8 +153,7 @@ Using the decoded ephemeris and tracking results, the user’s position is compu
 ![Opensky: Velocity in XYZ Direction](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_4.jpg)
 ![Opensky: Position Error Over Time](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_3.jpg)
 ![Opensky: Clock Bias Over Time](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_2.jpg)
-![Opensky: Position Error Distribution] (https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_1.jpg)
-
+![Opensky: Position Error Distribution](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task4_1.jpg)
 
 ---
 
@@ -173,14 +172,14 @@ To improve accuracy, EKF is implemented in `trackingVT_POS_updated.m`.
 5. **Refine position and velocity estimates** iteratively.  
 
 #### Results
-```
+
 ![EKF Opensky: Estimated Trajectory](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task5_1.jpg)
 ![EKF Opensky: Velocity in XYZ Direction](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task5_2.jpg)
 ![EKF Opensky: Position Error Over Time](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task5_3.jpg)
 ![EKF Opensky: Clock Bias Over Time](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task5_6.jpg)
 ![EKF Opensky: Clock Drift Over Time](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task5_5.jpg)
 ![EKF Opensky: Position Error Distribution (Multipath Effect Analysis)](https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task5_4.jpg)
-```
+
 ---
 
 ## 6. Conclusion
