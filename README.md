@@ -70,7 +70,7 @@ Tracking performance is visualized using:
 <table>
   <tr>
     <td>Opensky: ACF vs Code Delay<img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_4.jpg" width="400"></td>
-    <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task2_4.jpg" width="400"></td>
+    <td>Urban: ACF vs Code Delay<img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Urban/Task2_4.jpg" width="400"></td>
   </tr>
   <tr>
     <td><img src="https://github.com/KangWelly/Assignment-for-AAE6102_GNSS-SDR/blob/main/Result/Opensky/task2_3.jpg" width="400"></td>
