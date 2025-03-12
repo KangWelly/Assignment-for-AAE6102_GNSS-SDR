@@ -146,9 +146,7 @@ Using the decoded ephemeris and tracking results, the user’s position is compu
 
 #### Mathematical Model  
 
-\[
-\mathbf{x} = (\mathbf{H}^T \mathbf{W} \mathbf{H})^{-1} \mathbf{H}^T \mathbf{W} \mathbf{y}
-\]
+$x = (H^T W H)^{-1} H^T W y$
 
 - **x**: Estimated position and clock bias.  
 - **H**: Geometry matrix from satellite positions.  
