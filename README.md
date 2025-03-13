@@ -156,6 +156,9 @@ $x = (H^T W H)^{-1} H^T W y$
 - **W**: Weighting matrix based on SNR.  
 - **y**: Pseudorange residual.  
 
+#### Discussion of multipath effects on the WLS solution in opensky and urban 
+In open-sky conditions, multipath is minimal, primarily caused by reflections from the ground, and has a negligible impact on WLS accuracy. However, in urban environments, severe multipath from buildings and structures leads to non-line-of-sight (NLOS) errors, biased pseudorange measurements, and poor satellite geometry, significantly degrading WLS performance. These errors can cause large positioning inaccuracies and instability. To mitigate these effects, advanced weighting models, NLOS signal exclusion, multi-frequency GNSS, and sensor fusion (e.g., IMU integration) are used to improve positioning reliability in urban areas.
+
 #### Results
 
 <table>
@@ -226,3 +229,8 @@ To improve accuracy, EKF is implemented in `trackingVT_POS_updated.m`.
 - Implement carrier-phase differential GNSS (RTK) for cm-level accuracy.  
 - Integrate INS (Inertial Navigation System) for improved urban performance.  
 - Enhance multipath mitigation techniques.
+
+
+### References  
+Xu, B., & Hsu, L. T. (2019). Open-source MATLAB code for GPS vector tracking on a software-defined receiver. GPS solutions, 23(2), 46.
+https://github.com/pbingxu/SDR_MATLAB
