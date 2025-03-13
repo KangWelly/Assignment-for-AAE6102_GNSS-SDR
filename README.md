@@ -233,5 +233,4 @@ To improve accuracy, EKF is implemented in `trackingVT_POS_updated.m`.
 
 ### References  
 - Xu, B., & Hsu, L. T. (2019). Open-source MATLAB code for GPS vector tracking on a software-defined receiver. GPS solutions, 23(2), 46.
-
 - https://github.com/pbingxu/SDR_MATLAB
